@@ -22,5 +22,6 @@ slides:
   - wikipedia-growth
   - wikipedia-edit
   - open-street-map
+  - virtual-reality
+  - augmented-reality
 ---
-
